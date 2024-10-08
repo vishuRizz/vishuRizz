@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on the MERN stack, postgreSQL<br>I'm looking to collaborate on Full-Stack projects<br>I'm currently learning RDBMS, ts environment
+I'm currently working on the MERN stack, postgreSQL, HONO, cloudflare workers<br>I'm looking to collaborate on Full-Stack projects<br>
 
 
 ## 🌐 Socials:
